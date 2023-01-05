@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/phithithuhuong/caseMD3_Rent.git"
+    "url": "https://github.com/0501my/CSMD3.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/phithithuhuong/caseMD3_Rent/issues"
+    "url": "https://github.com/0501my/CSMD3.git/issues"
   },
-  "homepage": "https://github.com/phithithuhuong/caseMD3_Rent#readme",
+  "homepage": "https://github.com/0501my/CSMD3.git#readme",
   "dependencies": {
     "fs": "^0.0.1-security",
     "mysql": "^2.18.1",
